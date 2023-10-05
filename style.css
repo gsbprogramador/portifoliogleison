@@ -1,0 +1,56 @@
+/*tag body*/
+body {
+    padding-top: 50px;
+}
+/*class*/
+.navbar {
+    background-color: #3c47eb;
+}
+/*class*/
+.navbar-brand, .navbar-nav .nav-link {
+    color: #fff;
+}
+/*class*/
+.jumbotron {
+    background-image: url('background.jpg');
+    color: #fff;
+    text-align: center;
+    padding: 70px;
+}
+/*class&*/
+.section {
+    padding: 50px 0;
+}
+/*class*/
+.footer {
+    background-color: #3c47eb;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+/*tag h1*/
+h1{
+    color:black;
+}
+/*tag p*/
+p{
+    color:rgb(3, 3, 3);
+    text-align: justify;
+}
+/*id*/
+#paragrafo{
+
+    text-align: center;
+
+}
+/*id*/
+#paragrafo1{
+
+    text-align: center;
+    color: #fff;
+}
+/*tag img*/
+img{
+    
+    width: 300px;
+}
